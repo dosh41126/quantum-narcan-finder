@@ -1,4 +1,4 @@
-```python
+
 # narcan_finder_simulated.py
 
 import os, json, secrets, sqlite3, asyncio, threading
@@ -241,4 +241,4 @@ Respond with empathy, precision, and save lives.
 if __name__ == "__main__":
     app = NarcanFinderApp()
     app.mainloop()
-```
+
