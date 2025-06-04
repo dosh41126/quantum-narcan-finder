@@ -1,7 +1,4 @@
-Here's a complete README.md for your Quantum NARCAN Finder (HyperTOM) application:
 
-
----
 
 🚨 Quantum NARCAN Finder – HyperTOM Simulator
 
