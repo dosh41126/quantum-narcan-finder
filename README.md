@@ -183,10 +183,5 @@ At-risk individuals keeping themselves safe
 
 🧾 License
 
-GPL 3 © 2025 graylan freedomdao & Contributors inspired by  Challenges Inc Harm reduction 
-
-
----
-
-Let me know if you'd like this published on GitHub or bundled with an icon/installer.
+GPL 3 © 2025 graylan freedomdao & Contributors inspired by  Challenges Inc 
 
